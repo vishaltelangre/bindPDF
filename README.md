@@ -1,12 +1,11 @@
-# bindPDF
-
-<img src="https://user-images.githubusercontent.com/876195/66717916-9e4e0c00-edfb-11e9-9883-19b42a726829.png" alt="bindPDF" width="256" height="256">
-
-Quickly combine multiple PDF documents into a single PDF document.
+<div align="center">
+<h1 style="display:none;">bindPDF</h1>
+<img width="1280" alt="bindPDF" src="https://user-images.githubusercontent.com/876195/66754258-36f39300-eeb3-11e9-9f62-bb00db5308ed.png">
+</div>
 
 ## How it works?
 
-![image](https://user-images.githubusercontent.com/876195/66718874-57b1df00-ee06-11e9-9ae5-92abcb55e6cd.png)
+![how-it-works](https://user-images.githubusercontent.com/876195/66718874-57b1df00-ee06-11e9-9ae5-92abcb55e6cd.png)
 
 Watch this video which demonstrates how to install and use bindPDF 👇.
 
