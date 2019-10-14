@@ -1,5 +1,4 @@
 <div align="center">
-<h1 style="display:none;">bindPDF</h1>
 <img width="1280" alt="bindPDF" src="https://user-images.githubusercontent.com/876195/66754258-36f39300-eeb3-11e9-9f62-bb00db5308ed.png">
 </div>
 
